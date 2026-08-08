@@ -1,0 +1,112 @@
+{
+  "slug": "data-studio",
+  "host": "data",
+  "title": "Data Studio",
+  "tagline": "Dashboards, charts, reports, queries",
+  "description": "Build interactive dashboards, charts, and KPI trackers from your data. Create pivot tables, data models, SQL and visual queries, ETL pipelines, field mappings, and real-time monitoring, plus commission and pricing rule editors.",
+  "editors": [
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Dashboard Editor",
+      "desc": "Drag-and-drop dashboard builder"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Chart Editor",
+      "desc": "Chart creation and customization"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Report Builder",
+      "desc": "Automated report generation"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Spreadsheet Editor",
+      "desc": "Tabular data editing and formulas"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Pivot Table Editor",
+      "desc": "Data summarization and pivoting"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Data Visualization Editor",
+      "desc": "Advanced visual data storytelling"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "KPI Editor",
+      "desc": "Key performance indicator tracking"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Data Model Editor",
+      "desc": "Schema and data model design"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Query Builder",
+      "desc": "Visual query construction"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "SQL Editor",
+      "desc": "SQL writing and execution"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Data Pipeline Editor",
+      "desc": "ETL pipeline design"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Data Mapping Editor",
+      "desc": "Source-to-target field mapping"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Data Transformation Editor",
+      "desc": "Data cleansing and transformation"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Analytics Story Editor",
+      "desc": "Narrative-driven data stories"
+    },
+    {
+      "category": "Data, Dashboard & Analytics Editors",
+      "name": "Real-Time Monitoring Editor",
+      "desc": "Live metrics and alerting"
+    },
+    {
+      "category": "Business Analytics Editors",
+      "name": "Commission Rule Editor",
+      "desc": "Sales commission rule configuration"
+    },
+    {
+      "category": "Business Analytics Editors",
+      "name": "Pricing Editor",
+      "desc": "Pricing model and tier management"
+    }
+  ],
+  "services": [
+    [
+      "model",
+      "core"
+    ],
+    [
+      "search",
+      "core"
+    ],
+    [
+      "knowledge",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ]
+  ]
+}
